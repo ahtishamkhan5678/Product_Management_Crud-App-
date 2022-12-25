@@ -1,7 +1,16 @@
-# Product_Management_Crud-App
+# Product_Management_Mini_Project
+
+<img  align="center"  src="https://dbaasltd.co.in/img/ecommerce.gif" width="93%" height="420px" />
+
+---
 
 # Details : 📒
+<h3 align ="center">
 A Complete REST API for a Product_Management_System Portal application with Frontend_&_Backend . This API performs all the fundamental CRUD operations of any Product Management System Portal with user validation at every step.
+
+</h3>
+
+---
 
 ## Tech Stack
 - Java
